@@ -27,7 +27,7 @@
     "express": "^4.16.3",
     "hoek": "^5.0.3",
     "isomorphic-fetch": "^2.2.1",
-    "nodemon": "^1.18.4",
+    "nodemon": "^1.19.4",
     "pug": "^2.0.3",
     "request-promise-native": "^1.0.5",
     "snyk": "^1.70.2",
