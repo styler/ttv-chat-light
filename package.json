@@ -20,11 +20,11 @@
   "author": "Brian Clark",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.2",
     "discord.js": "^11.3.2",
     "dotenv": "^5.0.1",
     "es6-promise": "^4.2.5",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "hoek": "^5.0.3",
     "isomorphic-fetch": "^2.2.1",
     "nodemon": "^1.18.4",
