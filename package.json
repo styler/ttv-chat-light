@@ -29,7 +29,7 @@
     "isomorphic-fetch": "^2.2.1",
     "nodemon": "^1.18.4",
     "pug": "^2.0.3",
-    "request-promise-native": "^1.0.5",
+    "request-promise-native": "^1.0.9",
     "snyk": "^1.70.2",
     "socket.io": "^2.1.0",
     "socket.io-client": "^2.1.1",
